@@ -4,8 +4,8 @@
 
 ### Description
 
-Paper link: https://arxiv.org/abs/1702.08396 
-My implementation use Maximum Mean Discrepancy with RBF kernel instead of KL divergence between $ P(z) $ and $P(x | z)$
+Paper link: https://arxiv.org/abs/1702.08396 <br>
+My implementation use Maximum Mean Discrepancy with RBF kernel instead of KL divergence between _P(z)_ $ and _P(x | z)_
 <br>
 In the Jupyter Notebbok you can find an application of VLAE into MNIST dataset and a wide description of the model
 
